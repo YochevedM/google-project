@@ -1,4 +1,4 @@
 # google-project
 Automatic sentence completion
 
-![demo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![demo](https://github.com/YochevedM/google-project/blob/master/demo.gif)
